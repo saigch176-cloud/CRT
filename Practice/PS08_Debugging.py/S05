@@ -1,0 +1,20 @@
+''''
+a =int(input("Enter a"))
+b =int(input("Enter a"))
+C=a+b
+print("value a is:",a)
+print("value b is:",b)
+print("Sum a is:",C)
+'''
+try:
+    a =int(input("Enter a"))
+    print(10/a)
+    Except ValueError
+
+
+import pdb
+def add(a,b):
+    pdb.set_trace()#set the breakpoint
+    return a+b
+a=int(input("Enter a"))
+b = int(input("Enter b"))
